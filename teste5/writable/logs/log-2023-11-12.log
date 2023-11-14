@@ -1,0 +1,1535 @@
+CRITICAL - 2023-11-12 13:26:58 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:26:58 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:26:58 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:26:58 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:26:58 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:26:58 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:26:59 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:26:59 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:02 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:02 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:02 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:02 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:03 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:03 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:03 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:03 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:06 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:27:06 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:31 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:31 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:36 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:36 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:36 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:36 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:36 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:36 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:37 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:37 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:51 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:54 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:57 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:58 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:59 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:30:59 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:00 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:00 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:13 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:13 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:14 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:14 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:14 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:14 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:15 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:16 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:16 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:17 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:17 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:18 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:18 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:18 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:19 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:31:19 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:37:59 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:38:00 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:38:01 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:38:01 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:38:01 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:38:02 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:38:03 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:38:03 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:38:43 --> Call to undefined function App\Controllers\getimagemsize()
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->upload()
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:40:17 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:40:17 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:40:18 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:40:18 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:40:19 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:40:19 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:40:20 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:40:21 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:03 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:03 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:04 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:04 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:07 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:07 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:08 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:08 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:09 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:09 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:09 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:09 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:26 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:26 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:27 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:27 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:28 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:28 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:29 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:49:29 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:29 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:29 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:29 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:30 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:30 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:30 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:30 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:30 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:32 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:32 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:32 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:32 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:32 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:32 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:33 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 13:52:33 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:04 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:05 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:06 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:06 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:07 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:07 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:09 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:09 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:09 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:10 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:10 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:10 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:11 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:11:11 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:12:05 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:12:06 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:12:06 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:12:06 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:12:07 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:12:08 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:12:08 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:12:08 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:21:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:21:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:21:25 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:21:25 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:21:25 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:21:26 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:21:27 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:21:27 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:22:56 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:22:56 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:22:57 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:22:57 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:22:58 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:22:58 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:22:59 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:23:00 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:41:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:41:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:41:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:41:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:41:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:41:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:41:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:41:58 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:05 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:05 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:05 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:05 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:06 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:06 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:06 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:07 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:42:13 --> Use of undefined constant usuario - assumed 'usuario' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\teste5\app\Controllers\Usuarios.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 339, Array)
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->upload()
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-11-12 19:43:00 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:00 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:03 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:03 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:04 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:04 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:04 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:04 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:04 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:04 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:43:16 --> Use of undefined constant usuario - assumed 'usuario' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\teste5\app\Controllers\Usuarios.php(339): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 339, Array)
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->upload()
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-11-12 19:46:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:24 --> Argument 1 passed to App\Controllers\Usuarios::editarImagem() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:33 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:34 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:34 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:34 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:34 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:34 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:34 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:46:34 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:48:31 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:48:31 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:48:31 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:48:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:48:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:48:33 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:48:33 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-11-12 19:48:33 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\teste5\system\CodeIgniter.php on line 832
+#0 C:\xampp\htdocs\teste5\system\CodeIgniter.php(832): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\teste5\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\teste5\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\teste5\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\teste5\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
